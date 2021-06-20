@@ -3,7 +3,7 @@
     "body": "string",
     "post": "Post"
   },
-  "Urls": [
+  "Url": [
      {
       "url": "https://www.dayuse.co.uk/hotels/united-kingdom/yotel-london-clerkenwell",
       "method": "GET"
