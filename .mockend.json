@@ -1,0 +1,12 @@
+{
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  },
+  "Urls": [
+     {
+      "url": "https://www.dayuse.co.uk/hotels/united-kingdom/yotel-london-clerkenwell",
+      "method": "GET"
+    }
+]
+}
